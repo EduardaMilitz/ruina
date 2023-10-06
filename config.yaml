@@ -7,7 +7,7 @@ environment:
 schedules:
   - weekday: Mon
     restaurant: 2
-    vegetarian: true
+    vegetarian: false
     coffee: false
     lunch: true
     dinner: false
